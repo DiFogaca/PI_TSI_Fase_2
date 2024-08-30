@@ -4,6 +4,7 @@
 
 * [Sobre](#Sobre)
 * [Funcionalidades](#Funcionalidades)
+* [Diagramas](#Diagramas)
 * [Telas](#Telas)
 * [PI Entrega 3º semestre](#PI---3º-Semestre---Grupo-01-Fase-01)
 * [Desenvolvedores](#Desenvolvedores)
@@ -17,36 +18,36 @@ Este Projeto Integrador desenvolve um sistema educacional universitário inovado
 
 Abaixo encontra-se todas as funcionalidades desenvolvidas
 
-### Todos os usuários:
+### Todos os usuários
 * Login 
 
-### Aluno:
+### Aluno
 * Acessar o sistema de estudo
 * Realizar matrícula
 * Solicitar documento
 * Agendar avaliação
 * Consultar notas
 
-### Professor:
+### Professor
 * Adicionar disciplina
 * Alterar disciplina
 * Criar avaliação
 * Corrigir provas
 
-### Fornecedor:
+### Fornecedor
 * Cadastrar produtos
 * Visualizar produtos
 
 ## Diagramas
-### Diagrama de caso de uso:
+### Diagrama de caso de uso
 ![Diagrama de caso de uso](img/diagrama-de-caso-de-uso.png)
 
-### Diagrama de classe:
+### Diagrama de classe
 ![Diagrama de classe](img/diagrama-de-classe.png)
 
 ## Telas
 
-### Figma do protótipo do projeto:
+### Figma do protótipo do projeto
 <https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0>
 
 ## PI - 3º Semestre - Grupo 01 Fase 01
