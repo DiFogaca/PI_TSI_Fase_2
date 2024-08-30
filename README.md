@@ -36,13 +36,13 @@
 ## Telas:
 
 ## PI - 3º Semestre - Grupo 01 Fase 01
-![Documentação Fase 1 - Primeira entrega](file/PI%20-%203º%20Semestre%20-%20Grupo%2001%20Fase%2001.pdf)
+[Documentação Fase 1 - Primeira entrega](file/PI_-_3º_Semestre_-_Grupo_01_Fase_01.pdf)
 
 ## Desenvolvedores:
-[ANTONIO GABRIEL DE OLIVEIRA](#)  
+[ANTONIO GABRIEL DE OLIVEIRA](https://github.com/Arcane6)  
 [BIANCA SILVA BARCELOS](#)  
 [DIEGO DE LIMA FOGACA](https://github.com/DiFogaca)  
 [KLEVERTON MACHADO KULMANN](#)  
 [LEILANE CATHERINE JOHN HIRT](https://github.com/leilanehirt)  
-[MANOELA DE ARAUJO CUNTIN HARRISON](#)  
+[MANOELA DE ARAUJO CUNTIN HARRISON](https://github.com/Manoelah20)  
 [PETERSON FONSECA SIMIAO](#)  
