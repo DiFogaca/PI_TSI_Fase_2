@@ -45,9 +45,8 @@ Abaixo encontra-se todas as funcionalidades desenvolvidas
 ### Diagrama de classe
 ![Diagrama de classe](img/diagrama-de-classe.png)
 
-## Telas
-
-### [Figma do protótipo do projeto](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
+## Telas Protótipo
+[Link do protótipo do projeto Figma](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
 
 ## PI - 3º Semestre - Grupo 01 Fase 01
 [Documentação Fase 1 - Primeira entrega](file/PI_-_3º_Semestre_-_Grupo_01_Fase_01.pdf)
