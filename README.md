@@ -52,17 +52,17 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 
 ### Login
 #### Desktop
-![Diagrama de classe](img/front-templates/desktop/01-login_desktop.png)
+![Login Desktop](img/front-templates/desktop/01-login_desktop.png)
 
 #### Mobile
-![Diagrama de classe](img/front-templates/mobile/01-login_mobile.png)
+![Login Mobile](img/front-templates/mobile/01-login_mobile.png)
 
 
 ### Área do Aluno
 #### Desktop
-![Diagrama de classe](img/front-templates/desktop/02-area_aluno_desktop.png)
+![Area do Aluno Desktop](img/front-templates/desktop/02-area_aluno_desktop.png)
 #### Mobile
-![Diagrama de classe](img/front-templates/mobile/02-area_aluno_mobile.png)
+![Area do Aluno Mobile](img/front-templates/mobile/02-area_aluno_mobile.png)
 
 ### Área do Professor
 
