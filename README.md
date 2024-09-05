@@ -51,6 +51,15 @@ Abaixo encontra-se todas as funcionalidades desenvolvidas
 #### Desktop
 ![Diagrama de classe](img/front-templates/telas_login.png)
 #### Mobile
+![Diagrama de classe](img/front-templates/telas_login.png)
+
+
+### Área do Aluno
+#### Desktop
+![Diagrama de classe](img/front-templates/area_aluno.png)
+#### Mobile
+![Diagrama de classe](img/front-templates/area_aluno.png)
+
 ## PI - 3º Semestre - Grupo 01 Fase 01
 [Documentação Fase 1 - Primeira entrega](file/PI_-_3º_Semestre_-_Grupo_01_Fase_01.pdf)
 
