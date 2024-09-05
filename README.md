@@ -51,18 +51,18 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 [Link do protótipo do projeto Figma](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
 
 ### Login
-* Desktop
-![Diagrama de classe](img/front-templates/telas_login.png)
+#### Desktop
+![Diagrama de classe](img/front-templates/desktop/01 - login_desktop.png)
 
-* Mobile
-![Diagrama de classe](img/front-templates/telas_login.png)
+#### Mobile
+![Diagrama de classe](img/front-templates/mobile/01 - login_mobile.png)
 
 
 ### Área do Aluno
-* Desktop
-![Diagrama de classe](img/front-templates/area_aluno.png)
-* Mobile
-![Diagrama de classe](img/front-templates/area_aluno.png)
+#### Desktop
+![Diagrama de classe](img/front-templates/desktop/02 - area_aluno_desktop.png)
+#### Mobile
+![Diagrama de classe](img/front-templates/mobile/02 - area_aluno_mobile.png)
 
 ### Área do Professor
 
