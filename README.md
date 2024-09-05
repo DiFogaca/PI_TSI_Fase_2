@@ -64,9 +64,8 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 #### Mobile
 ![Área do Aluno Mobile](img/front-templates/mobile/02-area_aluno_mobile.png)
 
-| ![Área do Aluno Mobile](img/front-templates/mobile/02-Área_aluno_mobile.png) | ![Área do Aluno Mobile Menu](img/front-templates/mobile/02.1-area-do-aluno-menu.png) |
+| ![Área do Aluno Mobile](img/front-templates/mobile/02-area_aluno_mobile.png) | ![Área do Aluno Mobile Menu](img/front-templates/mobile/02.1-area-do-aluno-menu.png) |
 |:-------------------------------:|:-------------------------------:|
-| Área do Aluno            | Menu            |
 
 
 ### Área do Professor
