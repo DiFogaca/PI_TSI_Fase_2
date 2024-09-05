@@ -24,7 +24,7 @@ Abaixo encontra-se todas as funcionalidades desenvolvidas
 ### Aluno
 * Acessar o sistema de estudo
 * Realizar matrícula
-* Solicitar documento
+* Solicitar documentos
 * Agendar avaliação
 * Consultar notas
 
@@ -47,7 +47,10 @@ Abaixo encontra-se todas as funcionalidades desenvolvidas
 
 ## Telas Protótipo
 [Link do protótipo do projeto Figma](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
-
+### Tela de Login
+#### Desktop
+![Diagrama de classe](img/front-templates/telas_login.png)
+#### Mobile
 ## PI - 3º Semestre - Grupo 01 Fase 01
 [Documentação Fase 1 - Primeira entrega](file/PI_-_3º_Semestre_-_Grupo_01_Fase_01.pdf)
 
