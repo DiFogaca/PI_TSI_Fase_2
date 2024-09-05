@@ -60,9 +60,11 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 
 ### Área do Aluno
 #### Desktop
-![Area do Aluno Desktop](img/front-templates/desktop/02-area_aluno_desktop.png)
+![Área do Aluno Desktop](img/front-templates/desktop/02-area_aluno_desktop.png)
 #### Mobile
-![Area do Aluno Mobile](img/front-templates/mobile/02-area_aluno_mobile.png)
+| ![Área do Aluno Mobile](img/front-templates/mobile/02-area_aluno_mobile.png) | ![Área do Aluno Mobile Menu](img/front-templates/mobile/02.1-area-do-aluno-menu.png) |
+|:-------------------------------:|:-------------------------------:|
+
 
 ### Área do Professor
 
