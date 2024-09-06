@@ -18,23 +18,23 @@ Este Projeto Integrador desenvolve um sistema educacional universitário inovado
 
 Abaixo encontram-se todas as funcionalidades desenvolvidas
 
-### Todos os usuários 👨‍👩‍👧‍👦
+### 👨‍👩‍👧‍👦 Todos os usuários 
 * Login 
 
-### Aluno 🧑‍💻
+### 🧑‍💻 Aluno 
 * Acessar o sistema de estudo
 * Realizar matrícula
 * Solicitar documentos
 * Agendar avaliação
 * Consultar notas
 
-### Professor 👩‍🏫
+### 👩‍🏫 Professor 
 * Adicionar disciplina
 * Alterar disciplina
 * Criar avaliação
 * Corrigir provas
 
-### Fornecedor 👷
+### 👷 Fornecedor 
 * Cadastrar produtos
 * Visualizar produtos
 
