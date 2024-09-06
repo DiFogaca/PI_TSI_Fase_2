@@ -12,7 +12,7 @@
 
 ## Sobre
 
-Este Projeto Integrador desenvolve um sistema educacional universitário inovador, focado em criar uma plataforma intuitiva e acessível para estudantes e professores, promovendo uma experiência de uso agradável e eficiente. O projeto aborda três casos de uso críticos: acesso dos alunos ao material de estudo, publicação de materiais de aula pelos professores e entrega de materiais de escritório por fornecedores. Propomos cenários alternativos para esses casos, descrevendo processos simplificados. Incluímos Diagramas de Classes UML (Linguagem de Modelagem Unificada). e um Diagrama de Casos de Uso, complementando a estrutura do sistema e facilitando a implementação das funcionalidades propostas.
+Este Projeto Integrador desenvolve um sistema educacional universitário inovador, focado em criar uma plataforma intuitiva e acessível para estudantes e professores, promovendo uma experiência de uso agradável e eficiente. O projeto aborda três casos de uso críticos: acesso dos alunos ao material de estudo, publicação de materiais de aula pelos professores e entrega de materiais de escritório por fornecedores. Propomos cenários alternativos para esses casos, descrevendo processos simplificados. Incluímos Diagramas de Classes UML (Linguagem de Modelagem Unificada) e um Diagrama de Casos de Uso, complementando a estrutura do sistema e facilitando a implementação das funcionalidades propostas.
 
 ## Funcionalidades
 
