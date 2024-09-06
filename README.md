@@ -38,7 +38,7 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 * Cadastrar produtos
 * Visualizar produtos
 
-## Diagramas 📄
+## Diagramas 🗂️
 ### 📄 Diagrama de caso de uso
 ![Diagrama de caso de uso](img/diagrama-de-caso-de-uso.png)
 
