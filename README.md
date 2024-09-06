@@ -90,4 +90,4 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 [MANOELA DE ARAUJO CUNTIN HARRISON](https://github.com/Manoelah20)  
 [PETERSON FONSECA SIMIAO](https://github.com/PetersonFonsec)  
 
-Manoela, aperte para editar o README.md, selecione esta linha, apague e salve (commit changes)
+
