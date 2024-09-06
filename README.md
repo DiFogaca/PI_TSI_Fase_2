@@ -72,15 +72,11 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 
 ### ✅ Área do Professor
 #### Desktop 🖥️
-![Área do Professor](#)
-#### Mobile 📲
-![Área do Professor Mobile](#)
+![Área do Professor](img/front-templates/desktop/04-ambiente_do_professor_01.png)
 
 ### ✅ Ambiente de Aula
 #### Desktop 🖥️
-![Ambiente de aula](#)
-#### Mobile 📲
-![Ambiente de aula Mobile](#)
+![Ambiente de aula](img/front-templates/desktop/03-ambiente_de_aula_01.png)
 
 ## PI - 3º Semestre - Grupo 01 Fase 01 📚
 [Documentação Fase 1 - Primeira entrega](file/PI_-_3º_Semestre_-_Grupo_01_Fase_01.pdf)
