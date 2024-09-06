@@ -48,7 +48,9 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 ## Telas 💻
 
 ### ✅ Protótipo
-[Link do protótipo do projeto Figma](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
+[Link do projeto Figma](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
+
+[Link do protótipo funcional Figma](https://www.figma.com/proto/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=36-2644&node-type=FRAME&t=ix2Ac3FrnCCX6UTV-0&scaling=contain&content-scaling=fixed&page-id=36%3A2643&starting-point-node-id=36%3A2644)
 
 ### ✅ Login 
 #### Desktop 🖥️
