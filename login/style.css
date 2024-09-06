@@ -1,0 +1,46 @@
+:root {
+    --primary-color-1: #01111E;
+    --primary-color-2: #00539C;
+    --secundary-color-1: #F68C1E;
+    --neutral-color-1: #FFFFFF;
+}
+
+#login {
+    align-items: stretch;
+    background-image: url("./../img/login/bg.png");
+    display: flex;
+    justify-content: flex-end;
+
+    #login_content {
+        align-items: center;
+        background-color: var(--neutral-color-1);
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        max-width: 630px;
+        width: 100%;
+    }
+
+    #login_form {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        max-width: 493px;
+        width: 100%;
+
+        .button {
+            margin-top: 22px;
+            margin-bottom: 44px;
+        }
+
+        .input + .input {
+            margin-top: 52px;
+        }
+    }
+
+    #login_title {
+        text-align: center;
+        margin-bottom: 80px;
+    }
+}

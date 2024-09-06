@@ -1,0 +1,48 @@
+.link {
+    color: var(--primary-color-2);
+    cursor: pointer;
+    
+    span {
+        color: var(--secundary-color-1);
+        padding: 0 4px;
+    }
+}
+
+.undeline {
+    text-decoration: underline;
+}
+
+.button {
+    border-radius: 10px;
+    border: solid 2px var(--primary-color-2);
+    background-color: var(--primary-color-2);
+    color: var(--neutral-color-1);
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30.26px;
+    padding: 24px;
+    text-align: center;
+    width: 100%;
+}
+
+.input {
+    border-radius: 10px;
+    border: solid 2px var(--primary-color-2);
+    height: 90px;
+    width: 100%;
+    padding: 24px 26px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.input::placeholder {
+    line-height: 30.26px;
+    color: var(--primary-color-2);
+}
+
+.title {    
+    color: var(--primary-color-2);
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48.41px;
+}

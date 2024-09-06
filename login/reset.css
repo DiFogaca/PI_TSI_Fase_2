@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    min-width: 100vw;
+    font-family: Inter;
+}
+
+main {
+    min-height: inherit;
+    min-width: inherit;
+}
+
+button {
+    cursor: pointer;
+}
+
+h1, h2, h3 {
+    margin: 0;
+} 
