@@ -18,7 +18,7 @@ Este Projeto Integrador desenvolve um sistema educacional universitário inovado
 
 Abaixo encontram-se todas as funcionalidades desenvolvidas
 
-### Todos os usuários 
+### Todos os usuários 👨‍👩‍👧‍👦
 * Login 
 
 ### Aluno 🧑‍💻
@@ -47,10 +47,10 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 
 ## Telas 💻
 
-### Protótipo
+### ✅ Protótipo
 [Link do protótipo do projeto Figma](https://www.figma.com/design/JMBmNSFHi2kDqqlfhzSObK/EAD-SENAC-Protótipo?node-id=0-1&node-type=CANVAS&t=CGADQpEPLL4L9SjR-0)
 
-### Login 
+### ✅ Login 
 #### Desktop 🖥️
 ![Login Desktop](img/front-templates/desktop/01-login_desktop.png)
 
@@ -58,7 +58,7 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 ![Login Mobile](img/front-templates/mobile/01-login_mobile.png)
 
 
-### Área do Aluno
+### ✅ Área do Aluno
 #### Desktop 🖥️ 
 ![Área do Aluno Desktop](img/front-templates/desktop/02-area_aluno_desktop.png)
 #### Mobile 📲
@@ -66,13 +66,13 @@ Abaixo encontram-se todas as funcionalidades desenvolvidas
 |:-------------------------------:|:-------------------------------:|
 
 
-### Área do Professor
+### ✅ Área do Professor
 #### Desktop 🖥️
 ![Área do Professor](#)
 #### Mobile 📲
 ![Área do Professor Mobile](#)
 
-### Ambiente de Aula
+### ✅ Ambiente de Aula
 #### Desktop 🖥️
 ![Ambiente de aula](#)
 #### Mobile 📲
