@@ -46,3 +46,15 @@
     font-weight: 700;
     line-height: 48.41px;
 }
+.checkbox {
+    color: var(--primary-color-2);
+    cursor: pointer;
+
+    input {
+        border-color: var(--primary-color-2);
+        cursor: pointer;
+        margin-right: 8px;
+        width: 24px;
+        height: 24px;
+    }
+}

@@ -21,6 +21,11 @@
         width: 100%;
     }
 
+    #login_title {
+        text-align: center;
+        margin-bottom: 80px;
+    }
+
     #login_form {
         align-items: center;
         justify-content: center;
@@ -37,10 +42,16 @@
         .input + .input {
             margin-top: 52px;
         }
-    }
 
-    #login_title {
-        text-align: center;
-        margin-bottom: 80px;
+        label {
+            width: 100%;
+            display: flex;
+            margin: 22px 0;
+        }
+
+
+        .link + .link {
+            margin-top: 22px;
+        }
     }
 }
